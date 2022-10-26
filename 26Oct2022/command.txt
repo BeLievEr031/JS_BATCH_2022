@@ -1,0 +1,5 @@
+shebang syntax
+npm init -y
+bin :{
+    data:""
+}
